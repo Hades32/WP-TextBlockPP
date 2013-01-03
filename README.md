@@ -12,3 +12,12 @@ This enables the following ellipsis formats:
 I probably should replace this code with an attached property...
 
 Ellipsis code from http://www.codeproject.com/Articles/37503/Auto-Ellipsis
+
+PagedTextBlock
+==============
+
+A TextBlock for long texts with paging. Similar to the one in the Amazon Kindle app. 
+
+Next features:
+* flipping gestures
+* more stable text layout when going forward/backward
