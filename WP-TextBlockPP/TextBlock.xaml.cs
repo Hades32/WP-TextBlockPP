@@ -7,7 +7,7 @@ using System.Windows.Controls;
 
 namespace WP_TextBlockPP
 {
-    public class TexBlock : UserControl
+    public partial class TexBlock : UserControl
     {
         private System.Windows.Controls.TextBlock measureTextBlock;
         private System.Windows.Controls.TextBlock displayTextBlock;
